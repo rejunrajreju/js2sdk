@@ -1,0 +1,27 @@
+{
+  "name": "js2sdk",
+  "version": "1.0.0",
+  "description": "javascript sdk generator",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rejunraj c k rejunrajreju@gmail.com",
+  "preferGlobal": true,
+  "bin": {
+    "js2sdk": "index.js"
+  },
+  "license": "MIT",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/rejunrajreju/js2sdk.git"
+  },
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "concat-files": "^0.1.0",
+    "inquirer": "^0.10.1",
+    "jsonfile": "^2.2.2",
+    "prompt": "^0.2.14",
+    "q": "^1.4.1",
+    "uglify-js": "^2.4.24"
+  }
+}
