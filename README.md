@@ -1,1 +1,1 @@
-# js2sdk
+# Please visit http://www.js2sdk.com
