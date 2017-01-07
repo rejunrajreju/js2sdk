@@ -206,7 +206,9 @@ As of now js2sdk supports only Chrome and Safari
 
 Promise JS, https://github.com/stackp/promisejs, Thanks team for creating such a small library deal with promise
 
-Developer: **Rejunraj CK, rejunrajreju@gmail.com**￼ ￼ 
+## Developer: 
+
+**Rejunraj CK, rejunrajreju@gmail.com**￼ ￼ 
 
 
 ## License
