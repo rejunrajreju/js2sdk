@@ -97,7 +97,7 @@ _JS2SDK_._Model.comments.find( "name='Dr Abdul Kalam'" ).then(function(e,dat
 
 ```
 ## Status
-** JS2SDK has four different set of Status Flag. **
+**JS2SDK has four different set of Status Flag.**
 
 	*	UNATTEND: This is the default status. It means the data is not altered from the client side. 
 	*	PUSH: Your data will be update with PUSH status if you run either insert or update. Js2sdk identifies the data and push to server automatically based on the status if you have configured sync.
@@ -206,7 +206,7 @@ As of now js2sdk supports only Chrome and Safari
 
 Promise JS, https://github.com/stackp/promisejs, Thanks team for creating such a small library deal with promise
 
-Developer: ** Rejunraj CK, rejunrajreju@gmail.com **￼ ￼ 
+Developer: **Rejunraj CK, rejunrajreju@gmail.com**￼ ￼ 
 
 
 ## License
