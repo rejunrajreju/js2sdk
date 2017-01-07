@@ -68,9 +68,9 @@ js2sdk create models
 Js2sdk also provides Built in models like _LOGIN. This models deal with simple authentication method and will allow your project to deal with authentication without any code, meaning js2sdk will save and send the auth token for you based on the servicerequired and authisheader of service json. You have the option to send this auth via header and as a query params we will look into it later
 
 ## Insert Data
-'''
+```
 _JS2SDK_._Model.comments.insert({ "name":"Abdul Kalam" }).then(function(e,data){ console.log(data) }); 
-'''
+```
 
 It will automatically update the status of the data to PUSH. This matters at the time of inbuilt sync operations or at the time of executing post calls. We have four different set of status. We will discuss abt it latter. However if you don't want the status to be updated then you can pass the second params as true.
 
