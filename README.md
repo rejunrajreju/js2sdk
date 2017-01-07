@@ -93,7 +93,7 @@ _JS2SDK_._Model.comments.delete({ "id='100'" }).then(function(e,data){ con
 ```
 # Find Data
 ```
-_JS2SDK_._Model.comments.find( "name='Dr Abdul Kalam'" ).then(function(e,data){ console.log(data.item(0))> }); 
+_JS2SDK_._Model.comments.find( "name='Dr Abdul Kalam'" ).then(function(e,data){ console.log(data.item(0))}); 
 
 ```
 ## Status
